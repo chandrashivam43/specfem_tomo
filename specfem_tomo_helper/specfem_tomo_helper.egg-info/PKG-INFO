@@ -1,0 +1,19 @@
+Metadata-Version: 1.2
+Name: specfem-tomo-helper
+Version: 0.1
+Summary: Helper package for specfem3D tomography files
+Home-page: https://github.com/thurinj/specfem_tomo_helper
+Author: Julien Thurin
+Author-email: jthurin@alaska.edu
+License: GPLv3
+Description: UNKNOWN
+Keywords: seismology
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GPLv3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Unix
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Physics
+Requires-Python: ~=3.6
